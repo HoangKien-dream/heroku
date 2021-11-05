@@ -1,0 +1,81 @@
+* {box-sizing:border-box}
+.menu-left{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.menu-right{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 30px;
+}
+.title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.title h1 {
+    font-weight: 700;
+    font-size: 33px;
+    margin-bottom: 15px;
+}
+.item{
+   padding: 0 10px;
+}
+.detail{
+    padding: 25px 20px 15px;
+}
+
+.item div h1{
+    font-size: 19px;
+    color: #ffb400;
+}
+.brand{
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.price{
+    font-weight: bolder;
+}
+.best{
+    text-align:  center;
+}
+div i {
+    font-size: 50px;
+}
+div h1{
+    font-size: 25px;
+}
+div p {
+    font-size: 15px;
+}
+footer{
+    width: 100%;
+    margin-top: 20px;
+    height: 340px;
+    background: url("https://storage.googleapis.com/theme-vessel-items/checking-sites/autocar-html/HTML/main/img/img-4.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer div  {
+    color: white;
+}
+footer div h1 {
+    font-size: 20px;
+}
+footer div  p {
+    font-size: 14px;
+}
+footer div p i{
+    font-size: 14px;
+}
+.sub-footer{
+    margin-top: 20px;
+}
+.icon i{
+    margin-left: 10px;
+    font-size: 30px;
+}
+.icon{
+    text-align: right;
+}

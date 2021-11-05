@@ -1,0 +1,79 @@
+* {box-sizing:border-box}
+.menu-left{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.menu-right{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 30px;
+}
+header{
+    width: 100%;
+    margin-top: 20px;
+    height: 180px;
+    background: url("https://storage.googleapis.com/theme-vessel-items/checking-sites/autocar-html/HTML/main/img/img-5.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+.title h1 {
+    font-size: 30px;
+}
+.title p{
+    margin-top: 10px;
+    font-size: 18px;
+}
+.title p i{
+    margin-left:10px;
+}
+.content-area{
+    padding: 100px 0 70px;
+}
+.menu div i {
+    margin: 0 8px;
+}
+.menu{
+    padding: 30px 25px 15px;
+}
+.title-2{
+    color: #ffb400;
+    margin: 10px 0;
+}
+footer{
+    width: 100%;
+    margin-top: 20px;
+    height: 340px;
+    background: url("https://storage.googleapis.com/theme-vessel-items/checking-sites/autocar-html/HTML/main/img/img-4.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer div  {
+    color: white;
+}
+footer div h1 {
+    font-size: 20px;
+}
+footer div  p {
+    font-size: 14px;
+}
+footer div p i{
+    font-size: 14px;
+}
+.sub-footer{
+    margin-top: 20px;
+}
+.icon i{
+    margin-left: 10px;
+    font-size: 30px;
+}
+.icon{
+    text-align: right;
+}
